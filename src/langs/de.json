@@ -1,0 +1,164 @@
+{
+  "information": {
+    "author": "Dominik",
+    "lang_short": "de",
+    "lang_long": "Deutsch"
+  },
+  "content": {
+    "global": {
+      "confirm_button": "Bestätigen",
+      "cancel_button": "Abbrechen",
+      "close_button": "Beenden",
+      "error": "Fehler",
+      "previous_text": "Vorher",
+      "next_text": "Nächste",
+      "confirm_save": "Möchten Sie Ihre Aufnahme speichern?",
+      "confirm": "Bestätigen",
+      "information": "Information",
+      "restart_software_text": "Sie müssen die Software neu starten, damit sie wirksam wird."
+    },
+    "new_version": {
+      "title": "Software update",
+      "sub_text_1": "Neue Version",
+      "sub_text_2": "verfügbar!",
+      "sub_text_3": "Möchten Sie diese jetzt herunterladen?",
+      "ignore_button": "Ignorieren",
+      "remind_later_button": "Erinner mich später",
+      "download_button": "Download update"
+    },
+    "file_menu": {
+      "file_text": "Datei",
+      "new_text": "Neu",
+      "load_text": "Laden",
+      "save_text": "Speichern",
+      "save_as_text": "Speichern als"
+    },
+    "options_menu": {
+      "options_text": "Optionen",
+      "playback_menu": {
+        "playback_text": "Wiedergabe",
+        "speed_text": "Geschwindigkeit",
+        "speed_settings": {
+          "title": "Einstellungen Geschwindigkeit",
+          "sub_text": "Geben Sie einen Geschwindigkeitswert zwischen 0,1 und 10 ein",
+          "error_new_value": "Ihr Geschwindigkeitswert muss zwischen 0,1 und 10 liegen!"
+        },
+        "repeat_text": "Wiederholung",
+        "repeat_settings": {
+          "title": "Einstellungen Wiederholung",
+          "sub_text": "Anzahl der Wiederholungen",
+          "error_new_value": "Sie können nicht weniger als eine Wiederholung durchführen."
+        },
+        "for_text": "Für",
+        "for_settings": {
+          "title": "Für Einstellungen"
+        },
+        "interval_text": "Intervall",
+        "interval_settings": {
+          "title": "Intervall Einstellungen"
+        },
+        "for_interval_settings": {
+          "hours_text": "Stunden",
+          "minutes_text": "Minuten",
+          "seconds_text": "Sekunden",
+          "error_new_value_multiple": "Die Eingaben sind falsch",
+          "error_new_value_single": "Die Eingabe ist falsch"
+        },
+        "scheduled_text": "Zeitplan",
+        "scheduled_settings": {
+          "title": "Einstellungen Zeitplan"
+        },
+        "delay_text": "Verzögerung",
+        "delay_settings": {
+          "title": "Einstellungen Verzögerung",
+          "sub_text": "Geben Sie einen Verzögerungswert zwischen den Wiederholungen ein",
+          "error_new_value": "Der Verzögerungswert kann nicht kleiner als 0 sein."
+        }
+      },
+      "recordings_menu": {
+        "recordings_text": "Aufnahmen",
+        "mouse_movement_text": "Mausbewegung",
+        "mouse_click_text": "Mausklick",
+        "keyboard_text": "Tastatur"
+      },
+      "json_compact": "Kompakte Makrodaten",
+      "settings_menu": {
+        "settings_text": "Einstellungen",
+        "lang_text": "Sprache",
+        "lang_settings": {
+          "title": "Spracheinstellungen",
+          "sub_text": "Wählen Sie Ihre Sprache aus"
+        },
+        "hotkeys_text": "Tastenkombinationen",
+        "hotkeys_settings": {
+          "title": "Einstellungen Tastenkombinationen",
+          "start_record_text": "Starte Aufnahme",
+          "stop_record_text": "Stoppe Aufnahme",
+          "start_playback_text": "Starte Wiedergabe",
+          "stop_playback_text": "Stoppe Wiedergabe",
+          "clear_text": "Löschen",
+          "please_key_text": "Bitte eingeben",
+          "error_hotkeys": "Sie können beim Starten der Aufnahme und beim Starten der Wiedergabe nicht dieselben Tastenkombinationen verwenden"
+        },
+        "minimization_text": "Minimierung",
+        "minimization_toast": "PyMacroRecord wurde minimiert.",
+        "minimization_menu": {
+          "minimization_when_playing_text": "Minimierung beim Abspielen",
+          "minimization_when_recording_text": "Minimierung bei der Aufnahme"
+        },
+        "after_playback_text": "Nach der Wiedergabe",
+        "after_playback_settings": {
+          "when_playback_complete_text": "Nach Abschluss der Wiedergabe",
+          "title": "After playback settings",
+          "sub_text": "On playback complete",
+          "idle": "Leerlauf",
+          "quit software": "Beende Software",
+          "standby": "Standby",
+          "log off computer": "Computer abmelden",
+          "turn off computer": "Computer ausschalten",
+          "restart computer": "Computer neustarten",
+          "hibernate (if enabled)": "Ruhezustand (falls aktiviert)"
+        }
+      },
+      "others_menu": {
+        "others_text": "Andere",
+        "check_update_text": "Check update",
+        "reset_settings_text": "Einstellungen zurücksetzen",
+        "reset_settings_confirmation": "Sind Sie sicher, dass Sie Ihre Einstellungen zurücksetzen möchten?",
+        "fixed_timestamp_text": "Fester Zeitstempel",
+        "fixed_timestamp_settings": {
+          "title": "Einstellungen Fester Zeitstempel",
+          "sub_text": "Geben Sie einen festen Zeitstempel ein"
+        }
+      }
+    },
+    "help_menu": {
+      "help_text": "Hilfe",
+      "tutorial_text": "Tutorial",
+      "about_text": "Über",
+      "website_text": "Website",
+      "about_settings": {
+        "title": "About",
+        "publisher_text": "Herausgeber",
+        "version_text": "Version",
+        "license_text": "Unter Lizenz",
+        "version_check_update_text": {
+          "up_to_date": "Auf dem neuesten Stand",
+          "outdated": "Veraltet",
+          "disabled": "Überprüfen Sie, ob das Update deaktiviert ist",
+          "failed": "Das neue Update kann nicht abgerufen werden"
+        }
+      }
+    },
+    "others_menu": {
+      "others_text": "Andere",
+      "donors_text": "Spenden",
+      "donors_settings": {
+        "title": "Spenden",
+        "sub_text": "Alle Spenden"
+      }
+    }
+  }
+}
+
+
